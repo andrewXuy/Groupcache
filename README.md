@@ -1,2 +1,3 @@
 # Groupcache
-Implementation of light-weigh Groupcache in Go
+## Summary
+groupcache is a distributed caching and cache-filling library, intended as a replacement for a pool of memcached nodes in many cases.
